@@ -118,7 +118,7 @@ A: Looking for acquisition. Happy to demo under NDA.
 
 **Julian** — Solo developer, Norway  
 
-- LinkedIn: https://www.linkedin.com/in/julian-andersen-berge-0b790339b/
+- LinkedIn: [https://www.linkedin.com/in/julian-andersen-berge-0b790339b/](https://www.linkedin.com/in/julian-andersen-berge-2295752b3/)
 - X: https://x.com/LexiCoAS
 - Email: julian@lexico.no
 
