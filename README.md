@@ -75,14 +75,14 @@ This single hash commits to all 100,000,000 task hashes. Verify any task. Can't 
 
 ---
 
-#### What This Proves
+## What This Proves
 
 ✅ O(1) memory — 100,000x scale, same RAM usage
 ✅ Not hardware-dependent — Works on 12-year-old silicon
 ✅ Cryptographically verifiable — Don't trust me, check the math
 ✅ Working system — This is running code, not a paper
 
-## What This Doesn't Prove
+### What This Doesn't Prove
 
 ❌ How the compression works — that's the IP
 ❌ Verbatim recall of every task — it's semantic, not a database
