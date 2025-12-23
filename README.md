@@ -39,7 +39,7 @@ Every benchmark task is SHA-256 hashed into a Merkle tree. The root hash commits
 ## Verify Yourself
 
 ```bash
-git clone https://github.com/[username]/lexi-proofs.git
+git clone https://github.com/Lexi-Co/Lexi-Proofs.git
 cd lexi-proofs
 node verify.js --all
 ```
@@ -119,8 +119,6 @@ A: Looking for acquisition. Happy to demo under NDA.
 **Julian** — Solo developer, Norway  
 3 years building this. Looking for the right partner to deploy at scale.
 
-- Twitter: [@handle]
-- LinkedIn: [profile]
 - Email: julian@lexico.no
 
 Open to:
