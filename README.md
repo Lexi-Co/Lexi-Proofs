@@ -117,7 +117,6 @@ A: Looking for acquisition. Happy to demo under NDA.
 ## Contact
 
 **Julian** — Solo developer, Norway  
-3 years building this. Looking for the right partner to deploy at scale.
 
 - LinkedIn: https://www.linkedin.com/in/julian-andersen-berge-0b790339b/
 - X: https://x.com/LexiCoAS
