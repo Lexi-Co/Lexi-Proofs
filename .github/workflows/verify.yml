@@ -1,4 +1,6 @@
 name: Verify proofs
+permissions:
+  contents: read
 
 on:
   push:
