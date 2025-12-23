@@ -1,0 +1,25 @@
+name: Verify Proofs
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      
+      - name: Print Node.js version
+        run: node --version
+      
+      - name: Verify all proofs
+        run: node verify.js --all
