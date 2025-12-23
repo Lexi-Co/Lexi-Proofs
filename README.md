@@ -24,13 +24,13 @@ With Lexi (O(1) memory):
 
 Every benchmark task is SHA-256 hashed into a Merkle tree. The root hash commits to all operations. You can verify individual tasks against the root. The math either works or it doesn't.
 
-| Scale    | Tasks           | Memory    | Throughput     | Proof                                                                       |
-| -------- | --------------- | --------- | -------------- | --------------------------------------------------------------------------- |
-| 1K       | 1,000           | ~3 GB     | 2,354/sec      | [proof-1k.json](https://claude.ai/chat/proof-1k.json)                       |
-| 100K     | 100,000         | ~3 GB     | 21,499/sec     | [proof-100k.json](https://claude.ai/chat/proof-100k.json)                   |
-| 1M       | 1,000,000       | ~3 GB     | 39,077/sec     | [proof-1m.json](https://claude.ai/chat/proof-1m.json)                       |
-| 10M      | 10,000,000      | ~3 GB     | 42,751/sec     | [proof-10m.json](https://claude.ai/chat/proof-10m.json)                     |
-| **100M** | **100,000,000** | **~3 GB** | **25,194/sec** | [proof-100m-official.json](https://claude.ai/chat/proof-100m-official.json) |
+| Scale    | Tasks           | Memory    | Throughput     | Proof                                                     |
+| -------- | --------------- | --------- | -------------- | --------------------------------------------------------- |
+| 1K       | 1,000           | ~3 GB     | 2,354/sec      | [proof-1k.json](proof-1k.json)                            |
+| 100K     | 100,000         | ~3 GB     | 21,499/sec     | [proof-100k.json](proof-100k.json)                        |
+| 1M       | 1,000,000       | ~3 GB     | 39,077/sec     | [proof-1m.json](proof-1m.json)                            |
+| 10M      | 10,000,000      | ~3 GB     | 42,751/sec     | [proof-10m.json](proof-10m.json)                          |
+| **100M** | **100,000,000** | **~3 GB** | **25,194/sec** | [proof-100m-official.json](proof-100m-official.json)      |
 
 **Hardware:** Intel i7-4930K (2013), 32GB RAM, Windows 11
 
